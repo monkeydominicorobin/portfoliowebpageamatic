@@ -1,0 +1,20 @@
+{
+  "name": "portfoliowebpageamatic",
+  "homepage": "https://github.com/monkeydominicorobin/portfoliowebpageamatic",
+  "authors": [
+    "Rommel Dominguez <ynwodsun000@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
