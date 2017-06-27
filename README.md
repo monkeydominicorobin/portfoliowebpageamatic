@@ -10,3 +10,5 @@ Portfolio Web Page
 >Improvements shall be inroduced as I progress as a web developer
 
 >Made use of placeholders in case you're wondering
+
+**Just Clone The Repository**
